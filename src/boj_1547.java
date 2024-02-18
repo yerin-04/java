@@ -14,7 +14,6 @@ public class boj_1547 {
 		for( int i = 0; i < num; i ++ ) {
 			int move1 = Integer.parseInt(sc.next()) - 1;
 			int move2 = Integer.parseInt(sc.next()) - 1;
-			
 			int tmp = 0;
 			
 			tmp = arr[move1];

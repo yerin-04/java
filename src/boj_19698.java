@@ -9,7 +9,6 @@ public class boj_19698 {
 		int l = sc.nextInt();
 		
 		int result = (w/l) * (h/l);
-		
 		if( result >= n ) {
 			System.out.println(n);
 		}
